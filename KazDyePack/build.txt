@@ -1,0 +1,8 @@
+displayName = Custom Dye Pack
+author = Kazzymodus
+version = 1.0
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+languageVersion = 6

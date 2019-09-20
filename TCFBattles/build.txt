@@ -1,0 +1,9 @@
+author = Kazzymodus
+version = 1.0
+displayName = TCF Battles
+homepage = -
+hideCode = false
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
